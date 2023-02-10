@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "687136350715",
+    "project_id": "health-test-a7b49",
+    "storage_bucket": "health-test-a7b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687136350715:android:7bbbd772e15cd332ff2b5e",
+        "android_client_info": {
+          "package_name": "com.example.health_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687136350715-jtemso72qguvh18rjepjg11jg8ankd95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY3kwzhgS0fkFTAS_LUNMq21wLoaFJ8j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687136350715-jtemso72qguvh18rjepjg11jg8ankd95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687136350715-9r9vqaup5k1j10brfus28besnkbach50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
