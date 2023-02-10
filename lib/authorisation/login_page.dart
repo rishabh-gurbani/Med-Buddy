@@ -70,7 +70,7 @@ class _LoginPageState extends State<LoginPage> {
 
                 const SizedBox(height: 10,),
 
-                Text("Med Buddy", style: primary,),
+                Text("ProviMed", style: primary,),
 
                 const SizedBox(height: 10,),
 
