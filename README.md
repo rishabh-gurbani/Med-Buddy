@@ -1,16 +1,15 @@
-# health_test
+# Med Buddy App
 
-A new Flutter project.
+Medicine prices comparison app in Flutter.  
 
-## Getting Started
+Technologies used  
+Frontend : Flutter  
+Backend : Flask(Prices API)
 
-This project is a starting point for a Flutter application.
+## 🔗 Links
+[Flask Backend](https://github.com/rishabh-gurbani/meds_prices_scraping)
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/27919652/225396559-6998d445-9edc-4e8e-85a5-8fa427f01aa2.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
